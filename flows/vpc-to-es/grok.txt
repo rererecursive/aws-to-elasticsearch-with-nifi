@@ -1,0 +1,1 @@
+%{NUMBER:version} %{NUMBER:account_id} %{NOTSPACE:interface_id} %{NOTSPACE:srcaddr} %{NOTSPACE:dstaddr} %{NOTSPACE:srcport} %{NOTSPACE:dstport} %{NOTSPACE:protocol} %{NOTSPACE:packets} %{NOTSPACE:bytes} %{NUMBER:start} %{NUMBER:end} %{NOTSPACE:action} %{NOTSPACE:log_status}
